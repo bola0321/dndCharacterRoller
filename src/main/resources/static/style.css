@@ -1,1 +1,8 @@
 @charset "ISO-8859-1";
+.description {
+   word-wrap: break-word;
+   width: 300px;
+}
+.requirement-container{
+	display:flex;
+}
